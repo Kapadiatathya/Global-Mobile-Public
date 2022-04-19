@@ -5,10 +5,11 @@ App made using React-native(Code is Private due to privacy)
 
 This is an E-commerce app made purely in react-native using managed application expo.I have taken help from various open npm libraries available on npmjs.com.
 I have used Firebase authenticate mobile number as well used expo push notification.All the data displayed has been called using Api.
-The major features of this chat application is:
+The major features of this application is:
  * User can select various electronic items
  * User can add the product to the cart and order it online
  * User can Make a profile as well as upload profile
+ * Also integrated REST api for getting the data from the database
 
 ## Project Screenshots
 <p float="left">
